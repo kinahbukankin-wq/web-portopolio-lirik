@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lirik's Whimsical World</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav class="navbar">
+        <a href="#" class="logo">୨୧ LIRIK'S WORLD</a>
+        <div class="nav-links">
+            <a href="#about">About</a>
+            <a href="#education">Education</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+
+    <main>
+        <section class="hero">
+            <div class="sticker sticker-one">✿</div>
+            <div class="sticker sticker-two">୨୧</div>
+            <p class="eyebrow">✧ WELCOME TO MY LITTLE UNIVERSE ✧</p>
+            <h1>A little bit of<br><span>magic &amp; curiosity.</span></h1>
+            <p class="intro">
+                Hello, I'm Lirik! A student exploring the world of
+                technology, creativity, and little things that make life special.
+            </p>
+            <a href="#about" class="button">Get to know me ↗</a>
+            <p class="decoration">dream • create • discover</p>
+        </section>
+
+        <section id="about" class="section">
+            <p class="eyebrow">01 — A LITTLE INTRODUCTION</p>
+            <h2>About <span>Me</span> ♡</h2>
+            <p>
+                I'm Lirik, a student who loves discovering new things.
+                I'm currently learning about information technology,
+                programming, and creative digital projects.
+            </p>
+            <div class="tag-list">
+                <span>✿ Curious mind</span>
+                <span>♡ Creative soul</span>
+                <span>✧ Future tech explorer</span>
+            </div>
+        </section>
+
+        <section id="education" class="section">
+            <p class="eyebrow">02 — MY JOURNEY</p>
+            <h2>Growing &amp; <span>Learning</span> ♡</h2>
+            <div class="info-card">
+                <h3>My Education</h3>
+                <p>Information Technology Student</p>
+                <p>Currently learning programming, problem solving, and web development.</p>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <p class="eyebrow">03 — THINGS I'VE MADE</p>
+            <h2>Little <span>Creations</span> ✧</h2>
+            <div class="project-grid">
+                <article class="info-card">
+                    <span class="project-icon">୨୧</span>
+                    <h3>My First Website</h3>
+                    <p>A personal website made with HTML and CSS.</p>
+                </article>
+                <article class="info-card">
+                    <span class="project-icon">✿</span>
+                    <h3>Learning Python</h3>
+                    <p>Exploring code, logic, and simple programs.</p>
+                </article>
+            </div>
+        </section>
+
+        <section id="contact" class="section contact">
+            <p class="eyebrow">04 — LET'S CONNECT</p>
+            <h2>Say <span>Hello!</span> ♡</h2>
+            <p>Thank you for visiting my little corner of the internet.</p>
+            <a class="button" href="mailto:emailkamu@example.com">Send me an email ↗</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>Made with ♡ by Lirik · 2026</p>
+        <p>✧ stay curious, stay magical ✧</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
